@@ -2,4 +2,4 @@
 
 Clone app of Ifood with Rails + NextJS
 
-![restaurante](public/Lista de restaurantes.png)
+<img src="public/Lista de restaurantes.png" alt="restaurante"/>
